@@ -1,14 +1,19 @@
 anime_id	name	rating
 41457	86	5
+47	Akira	5
+6547	Angel Beats!	10
 27911	Anime de Wakaru Shinryounaika	6
 11111	Another	7
 2251	Baccano!	9
-20787	Black Bullet	8
-31043	Boku dake ga Inai Machi	7
+20787	Black Bullet	9
+889	Black Lagoon	7
+1519	Black Lagoon: The Second Barrage	7
+31043	Boku dake ga Inai Machi	8
 2167	Clannad	5
 4181	Clannad: After Story	5
 1575	Code Geass: Hangyaku no Lelouch	9
 2904	Code Geass: Hangyaku no Lelouch R2	9
+2164	Dennou Coil	7
 38691	Dr. Stone	7
 40852	Dr. Stone: Stone Wars	7
 4789	ef: A Tale of Melodies.	9
@@ -16,21 +21,28 @@ anime_id	name	rating
 7465	Eve no Jikan (Movie)	8
 10087	Fate/Zero	8
 11741	Fate/Zero 2nd Season	8
+227	FLCL	7
+33010	FLCL Progressive	7
+14131	Girls & Panzer	7
 37349	Goblin Slayer	6
 39576	Goblin Slayer: Goblin's Crown	6
+40052	Great Pretender	7
 17729	Grisaia no Kajitsu	6
 27969	Hana to Alice: Satsujin Jiken	5
 42625	Heion Sedai no Idaten-tachi	7
 38816	Hello World	7
 777	Hellsing Ultimate	6
-934	Higurashi no Naku Koro ni	8
+934	Higurashi no Naku Koro ni	7
 41006	Higurashi no Naku Koro ni Gou	6
-1889	Higurashi no Naku Koro ni Kai	8
+1889	Higurashi no Naku Koro ni Kai	7
 48488	Higurashi no Naku Koro ni Sotsu	5
+42897	Horimiya	7
 35557	Houseki no Kuni (TV)	8
-11061	Hunter x Hunter (2011)	9
+11061	Hunter x Hunter (2011)	10
 33012	Island	4
 43691	Kageki Shoujo!!	8
+8525	Kami nomi zo Shiru Sekai	6
+10080	Kami nomi zo Shiru Sekai II	6
 38000	Kimetsu no Yaiba	6
 40456	Kimetsu no Yaiba Movie: Mugen Ressha-hen	5
 47778	Kimetsu no Yaiba: Yuukaku-hen	6
@@ -43,21 +55,33 @@ anime_id	name	rating
 36862	Made in Abyss Movie 3: Fukaki Tamashii no Reimei	8
 38256	Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)	4
 41530	Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season - Kakusei Zenya	4
+76	Mahou Shoujo Lyrical Nanoha	5
+77	Mahou Shoujo Lyrical Nanoha A's	5
 9756	Mahou Shoujo Madoka★Magica	6
 11981	Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari	6
 40571	Majo no Tabitabi	6
 42340	Meikyuu Black Company	6
 39535	Mushoku Tensei: Isekai Ittara Honki Dasu	8
 45576	Mushoku Tensei: Isekai Ittara Honki Dasu Part 2	8
+19815	No Game No Life	8
+17549	Non Non Biyori	6
 38395	Otona no Bouguya-san	5
 42862	Otona no Bouguya-san II	2
-33190	Planetarian: Hoshi no Hito	8
-35848	Promare	6
+33190	Planetarian: Hoshi no Hito	7
+35848	Promare	5
 13601	Psycho-Pass	9
+31240	Re:Zero kara Hajimeru Isekai Seikatsu	7
+12477	Sakasama no Patema	8
 35851	Sayonara no Asa ni Yakusoku no Hana wo Kazarou	5
 37450	Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai	6
 43439	Shadows House	7
-13125	Shinsekai yori	8
+16498	Shingeki no Kyojin	10
+25777	Shingeki no Kyojin Season 2	10
+35760	Shingeki no Kyojin Season 3	10
+38524	Shingeki no Kyojin Season 3 Part 2	10
+40028	Shingeki no Kyojin: The Final Season	10
+13125	Shinsekai yori	10
+25835	Shirobako	8
 48849	Sonny Boy	7
 39569	Sora no Aosa wo Shiru Hito yo	6
 40870	SSSS.Dynazenon	6
@@ -66,15 +90,20 @@ anime_id	name	rating
 5681	Summer Wars	8
 7311	Suzumiya Haruhi no Shoushitsu	8
 4382	Suzumiya Haruhi no Yuuutsu (2009)	7
-48556	Takt Op. Destiny	7
+48556	Takt Op. Destiny	6
+35790	Tate no Yuusha no Nariagari	6
 2001	Tengen Toppa Gurren Lagann	7
-38826	Tenki no Ko	7
+38826	Tenki no Ko	8
+42249	Tokyo Revengers	5
+41389	Tonikaku Kawaii	6
 34498	Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?	5
 33352	Violet Evergarden	7
 46095	Vivy: Fluorite Eye's Song	9
+37786	Yagate Kimi ni Naru	8
 37779	Yakusoku no Neverland	7
 39617	Yakusoku no Neverland 2nd Season	6
 7785	Yojouhan Shinwa Taikei	8
 34537	Yoru wa Mijikashi Arukeyo Otome	7
+23283	Zankyou no Terror	7
 37976	Zombieland Saga	8
 40174	Zombieland Saga: Revenge	6
